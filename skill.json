@@ -1,0 +1,19 @@
+{
+  "name": "genpark-agent-extended-thinking-verification-critic-skill",
+  "version": "1.0.0",
+  "description": "Multi-round extended thinking critic performing backtracking, hypothesis testing, and factual ground checks",
+  "category": "Service",
+  "topics": [
+    "mcp",
+    "extended-thinking",
+    "verification-critic",
+    "fact-checking",
+    "backtracking-search",
+    "autonomous-agents",
+    "hallucination-guard",
+    "python-standard-library",
+    "agent-skills",
+    "reasoning-engine",
+    "zero-dependency"
+  ]
+}
